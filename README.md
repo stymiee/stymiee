@@ -26,6 +26,6 @@ Here are some ideas to get you started:
 | [Webmasters](https://webmasters.stackexchange.com/users/1253/john-conde) | [@SOHotQuestions (Twitter)](https://twitter.com/SOHotQuestions) |
 | [Github](https://github.com/stymiee)                                     | [Last.fm](https://www.last.fm/user/stymiee)                     |
 | [PHP Classes](https://www.phpclasses.org/browse/author/1557956.html)     | [Facebook](https://www.facebook.com/johnconde)                  |
-|                                                                          | [Instagram](https://www.instagram.com/stymiee/)                 |
+| [Sitepoint (author)](https://www.sitepoint.com/author/john-conde/)       | [Instagram](https://www.instagram.com/stymiee/)                 |
 |                                                                          | [Steam](https://steamcommunity.com/id/stymiee)                  |
 |                                                                          | [Pinterest](https://www.pinterest.com/stymiee/boards/)          |
