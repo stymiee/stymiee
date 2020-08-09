@@ -29,3 +29,11 @@ Here are some ideas to get you started:
 | [Sitepoint (author)](https://www.sitepoint.com/author/john-conde/)       | [Instagram](https://www.instagram.com/stymiee/)                 |
 |                                                                          | [Steam](https://steamcommunity.com/id/stymiee)                  |
 |                                                                          | [Pinterest](https://www.pinterest.com/stymiee/boards/)          |
+
+## Read some of my blog articles
+
+- [Tutorial: PHP Email Address Validator](https://www.johnconde.net/blog/tutorial-php-email-address-validator/?utm_source=Github)
+- [Going Deeper Into Email Address Validation](https://www.johnconde.net/blog/going-deeper-into-email-address-validation/?utm_source=Github)
+- [Tutorial: PHP Simple Encryption](https://www.johnconde.net/blog/php-simple-encryption/?utm_source=Github)
+- [Handling Authorize.Net’s Webhooks with PHP](https://www.johnconde.net/blog/handling-authorize-net-webhooks-with-php/?utm_source=Github)
+- [Working With Dates and Times in PHP](https://www.johnconde.net/blog/working-with-dates-and-times-in-php/?utm_source=Github)
