@@ -1,6 +1,8 @@
 # Hi, I'm John Conde!
 
-![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Fgithub.com%2Fstymiee%2Fstymiee)
+- 🔭 I’m currently working at Billtrust as a Senior Manager, Development
+- ⚡ Fun fact: I've had cancer (1) more often than I've had the flu (0)
+
 <!--
 **stymiee/stymiee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -13,7 +15,6 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
 
 ## Find me around the web:
@@ -37,3 +38,6 @@ Here are some ideas to get you started:
 - [Tutorial: PHP Simple Encryption](https://www.johnconde.net/blog/php-simple-encryption/?utm_source=Github)
 - [Handling Authorize.Net’s Webhooks with PHP](https://www.johnconde.net/blog/handling-authorize-net-webhooks-with-php/?utm_source=Github)
 - [Working With Dates and Times in PHP](https://www.johnconde.net/blog/working-with-dates-and-times-in-php/?utm_source=Github)
+
+
+![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Fgithub.com%2Fstymiee%2Fstymiee)
