@@ -29,6 +29,7 @@ Here are some ideas to get you started:
 | [PHP Classes](https://www.phpclasses.org/browse/author/1557956.html)     | [Facebook](https://www.facebook.com/johnconde)                  |
 | [Sitepoint (author)](https://www.sitepoint.com/author/john-conde/)       | [Instagram](https://www.instagram.com/stymiee/)                 |
 |                                                                          | [Steam](https://steamcommunity.com/id/stymiee)                  |
+|                                                                          | [GOG](https://www.gog.com/u/stymiee)                            |
 |                                                                          | [Pinterest](https://www.pinterest.com/stymiee/boards/)          |
 
 ## Read some of my blog articles
