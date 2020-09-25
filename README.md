@@ -2,6 +2,7 @@
 
 - 🔭 I’m currently working at Billtrust as a Senior Manager, Development
 - ⚡ Fun fact: I've had cancer (1) more often than I've had the flu (0)
+- 😄 Pronouns: He, His
 
 <!--
 **stymiee/stymiee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,7 +15,6 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
 -->
 
 ## Find me around the web:
