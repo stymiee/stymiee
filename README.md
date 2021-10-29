@@ -1,6 +1,6 @@
 # Hi, I'm John Conde!
 
-- 🔭 I’m currently working at Billtrust as a Senior Manager, Development
+- 🔭 I’m currently working at DealerInspire (Cars.com) as a Senior Software Engineer II
 - ⚡ Fun fact: I've had cancer (1) more often than I've had the flu (0)
 - 😄 Pronouns: He, His
 
@@ -26,10 +26,9 @@ Here are some ideas to get you started:
 | [Stack Overflow](https://stackoverflow.com/users/250259/john-conde)      | [@stymiee (Twitter)](https://twitter.com/stymiee)               |
 | [Webmasters](https://webmasters.stackexchange.com/users/1253/john-conde) | [@SOHotQuestions (Twitter)](https://twitter.com/SOHotQuestions) |
 | [Github](https://github.com/stymiee)                                     | [Last.fm](https://www.last.fm/user/stymiee)                     |
-| [Packagist](https://packagist.org/users/stymiee/)                        | [Facebook](https://www.facebook.com/johnconde)                  |
-| [Sitepoint (author)](https://www.sitepoint.com/author/john-conde/)       | [Instagram](https://www.instagram.com/stymiee/)                 |
-| [PHP Classes](https://www.phpclasses.org/browse/author/1557956.html)     | [Pinterest](https://www.pinterest.com/stymiee/boards/)          |
-|                                                                          | [Steam](https://steamcommunity.com/id/stymiee)                  |
+| [Packagist](https://packagist.org/users/stymiee/)                        | [Instagram](https://www.instagram.com/stymiee/)                 |
+| [Sitepoint (author)](https://www.sitepoint.com/author/john-conde/)       | [Pinterest](https://www.pinterest.com/stymiee/boards/)          |
+| [PHP Classes](https://www.phpclasses.org/browse/author/1557956.html)     | [Steam](https://steamcommunity.com/id/stymiee)                  |
 |                                                                          | [GOG](https://www.gog.com/u/stymiee)                            |
 
 ## Read some of my blog articles
