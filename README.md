@@ -1,8 +1,8 @@
 # Hi, I'm John Conde!
 
-- 🔭 I’m currently working at DealerInspire (Cars.com) as a Senior Software Engineer II
+- 🔭 I’m currently working at Dealer Inspire (Cars.com) as a Senior Software Engineer II
 - ⚡ Fun fact: I've had cancer (1) more often than I've had the flu (0)
-- 😄 Pronouns: He, His
+- 😄 Pronouns: He/Him/His
 
 <!--
 **stymiee/stymiee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,6 +16,10 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 -->
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=stymiee&margin-w=15&margin-h=15&title=LongTimeUser,AncientUser,Stars,Commit,Followers)
+
+![Github Stats](https://github-readme-stats.vercel.app/api?username=stymiee&show_icons=true&locale=en)
 
 ## Find me around the web:
 
@@ -40,4 +44,4 @@ Here are some ideas to get you started:
 - [Working With Dates and Times in PHP](https://www.johnconde.net/blog/working-with-dates-and-times-in-php/?utm_source=Github)
 
 
-![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Fgithub.com%2Fstymiee%2Fstymiee)
+![Hits](https://komarev.com/ghpvc/?username=stymiee&label=Profile%20views&color=0e75b6&style=flat)
