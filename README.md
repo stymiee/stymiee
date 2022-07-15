@@ -1,6 +1,6 @@
 # Hi, I'm John Conde!
 
-- 🔭 I’m currently working at Dealer Inspire (Cars.com) as a Senior Software Engineer II
+- 🔭 I’m currently working at Dealer Inspire (Cars.com) as a Manager, Website Platform (Engineering)
 - ⚡ Fun fact: I've had cancer (1) more often than I've had the flu (0)
 - 😄 Pronouns: He/Him/His
 
