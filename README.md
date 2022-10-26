@@ -44,4 +44,4 @@ Here are some ideas to get you started:
 - [Working With Dates and Times in PHP](https://www.johnconde.net/blog/working-with-dates-and-times-in-php/?utm_source=Github)
 
 
-![Hits](https://komarev.com/ghpvc/?username=stymiee&label=Profile%20views&color=0e75b6&style=flat)
+![Hits](https://komarev.com/ghpvc/?username=stymiee&label=Profile%20views&color=0e75b6&style=flat) since January 26, 2022
