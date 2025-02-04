@@ -1,6 +1,5 @@
 # Hi, I'm John Conde!
 
-- 🔭 I’m currently working at Dealer Inspire (Cars.com) as a Manager, Website Platform (Engineering)
 - 😄 Pronouns: He/Him/His
 
 <!--
